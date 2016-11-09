@@ -7,3 +7,5 @@ Gameplay
 - You have three boomerangs at your disposal. After throwing out, it will bouce back for you to catch.
 - Boomerang kills every enermy it hits which adds to more points and remaining time.
 - Try to score as many points as you can in a limited time.
+
+![ninja-boomerang](ninja-boomerang.png)
