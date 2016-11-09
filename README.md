@@ -1,4 +1,4 @@
-# Boomerang2
+# Ninja Boomerang
 
 Gameplay
 
