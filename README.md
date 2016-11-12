@@ -8,4 +8,4 @@ Gameplay
 - Boomerang kills every enermy it hits which adds to more points and remaining time.
 - Try to score as many points as you can in a limited time.
 
-![ninja-boomerang](images/ninja-boomerang.png)
+![ninja-boomerang](images/ninja-boomerang-2.png)
